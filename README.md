@@ -1,3 +1,4 @@
+<h1>English</h1>
 # 👋 Hi, I’m Homebax  
 
 ## 👨‍💻 About Me  
@@ -26,3 +27,35 @@ I’m open to collaborating on projects that:
 ---
 
 © 2026 Homebax Studios. All rights reserved.
+
+## -------------
+
+<h1>Česky</h1>
+# 👋 Ahoj, jsem Homebax  
+
+## 👨‍💻 O mně  
+Jsem zapálený **vývojář her a webových aplikací**, zaměřený na tvorbu kvalitních indie i rozsáhlých projektů.  
+Zakladatel a CEO **Homebax Studios**, nezávislé herní značky zaměřené na vytváření inovativních a technicky pokročilých herních zážitků.
+
+## 🚀 Na čem právě pracuji  
+- Vývoj originálních herních projektů pod značkou **Homebax Studios**  
+- Příprava budoucích vydání na platformě **Steam**  
+- Experimentování s moderními technologiemi (UE5, webové systémy, herní mechaniky, optimalizace výkonu)
+
+## 🤝 Spolupráce  
+Jsem otevřený spolupráci na projektech, které:  
+- Posouvají inovace v herním designu  
+- Zkoumají nové technické přístupy  
+- Zaměřují se na kvalitní UX/UI a pohlcující systémy  
+- Směřují k profesionální produkční kvalitě  
+
+## 🌐 Odkazy & Kontakt  
+
+- 🐦 [Twitter / X](https://x.com/homebax_studios)  
+- 💬 [Discord server](https://discord.gg/rKA2n9HXfg)  
+- 🌍 [Web](https://homebax.vercel.app/)  
+- ▶️ [YouTube](https://www.youtube.com/@homebax)  
+
+---
+
+© 2026 Homebax Studios. Všechna práva vyhrazena.
