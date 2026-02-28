@@ -24,11 +24,11 @@ I’m open to collaborating on projects that:
 - 🌍 [Website](https://homebax.vercel.app/)
 - ▶️ [Youtube](https://www.youtube.com/@homebax)
 
----
 
 © 2026 Homebax Studios. All rights reserved.
 
-## -------------
+---
+---
 
 <h1>Česky</h1>
 # 👋 Ahoj, jsem Homebax  
@@ -56,6 +56,5 @@ Jsem otevřený spolupráci na projektech, které:
 - 🌍 [Web](https://homebax.vercel.app/)  
 - ▶️ [YouTube](https://www.youtube.com/@homebax)  
 
----
 
 © 2026 Homebax Studios. Všechna práva vyhrazena.
